@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Interaction with api Employees","post employee","SUCCESS","2022-05-23T09:29:48.6504633-05:00[America/Bogota]","0.0","1.76"
+"Interaction with api Employees","get employee by id","SUCCESS","2022-05-23T09:29:50.4263245-05:00[America/Bogota]","0.0","1.55"
+"Interaction with api Employees","delete employee by id","SUCCESS","2022-05-23T09:29:51.984844-05:00[America/Bogota]","0.0","1.46"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Interaction with api Employees" skipped="0" tests="7" time="12.56" timestamp="2022-05-23 09:29:40"><testcase name="get employees"/><testcase name="post employee"/><testcase name="get employee by id"/><testcase name="delete employee by id"/></testsuite>
