@@ -1,13 +1,13 @@
 # Introducción 
 Este proyecto contiene la automatización de 4 casos de prueba con el objetivo de verificar el funcionamiento de los métodos principales del api https://dummy.restapiexample.com que corresponden a las funcionalidades de consultar empleados, consultar empleado según su identificación, registrar nuevos empleados y eliminar empleados existentes.
 
-GET
+1. GET
 http://dummy.restapiexample.com/api/v1/employees
-POST
+2. POST
 http://dummy.restapiexample.com/api/v1/create
-GET
+3. GET
 http://dummy.restapiexample.com/api/v1/employee/1
-DELETE
+4. DELETE
 http://dummy.restapiexample.com/api/v1/delete/2
 
 # Software utilizado
