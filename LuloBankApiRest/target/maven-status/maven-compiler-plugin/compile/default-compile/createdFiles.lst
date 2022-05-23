@@ -1,0 +1,13 @@
+co\com\lulobank\apirest\models\Employee.class
+co\com\lulobank\apirest\integrations\DeleteEmployee.class
+co\com\lulobank\apirest\integrations\GetEmployee.class
+co\com\lulobank\apirest\questions\StatusCode.class
+co\com\lulobank\apirest\util\Resources.class
+co\com\lulobank\apirest\exceptions\FailedOfApi.class
+co\com\lulobank\apirest\questions\Attribute.class
+co\com\lulobank\apirest\integrations\GetInformation.class
+co\com\lulobank\apirest\questions\StatusMessage.class
+co\com\lulobank\apirest\integrations\CreateEmployee.class
+co\com\lulobank\apirest\questions\Body.class
+co\com\lulobank\apirest\exceptions\ResponseValidation.class
+co\com\lulobank\apirest\questions\Messaje.class
