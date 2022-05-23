@@ -1,0 +1,16 @@
+package co.com.lulobank.apirest.questions;
+
+import net.serenitybdd.screenplay.Actor;
+import net.serenitybdd.screenplay.Question;
+
+public class StatusCode implements Question<String> {
+
+    public static StatusCode ofResource(){
+        return new StatusCode();
+    }
+
+    @Override
+    public String answeredBy(Actor actor) {
+        return actor.recall("statusCode").toString();
+    }
+}
