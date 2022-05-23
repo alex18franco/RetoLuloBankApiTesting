@@ -17,9 +17,10 @@ Para realizar el proyecto se utilizaron las herramientas de
 3.  Framework Cucumber
 4.  Framework Serenity BDD en su última versión 3.2.5
 5.  Patrón de diseño ScreenPlay BDD
+
 ![image](https://user-images.githubusercontent.com/57577125/169853389-abf8854d-c59d-4e49-893a-7997a28e8259.png)
 
-7.  Librería Hamcrest para realizar las validaciones de los escenarios
+6.  Librería Hamcrest para realizar las validaciones de los escenarios
 
 # Como ejecutar el proyecto
 Se debe tener instalado en el ambiente en dónde se va a realizar la ejecución:
